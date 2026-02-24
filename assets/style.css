@@ -1,5 +1,8 @@
 body {
     background-color: black;
+    background-image: ur1("batman-red-5120x2880-19038.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
